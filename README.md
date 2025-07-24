@@ -135,7 +135,7 @@ README.md                   ← 本文件
 `Actual`
 1. 11:00-12:30 `@meal.lunch`   : 午餐                                      `planned-OnTime`
 2. 12:30-15:54 `@coding.leetcode.python` : LeetCode Python                 `extra`
-3. 15:54-16:37 `@gaming` : 打游戏   `extra`
+3. 15:54-16:37 `@gaming` : 打游戏                                           `extra`
 4. 16:37-18:49 `@coding.python.module-package` : Python module & package   `extra`
 5. 18:49-19:48 `@study.python.question`  : Python 问答                     `extra`
 6. 19:48-20:30 `@study.java`: java学习                                     `extra`
