@@ -112,36 +112,36 @@ README.md                   ← 本文件
      * 可反引号包裹
      * 与描述之间可用 0+ 空白分隔
 
-5. **示例**
+5. **示例日记**
 ```markdown
 `Yesterday`
-5. 23:27-02:00 `@chat.gran`  :  聊天  `extra`
-6. 02:00-03:00 `@leisure`: 刷视频         `extra`
-7. 03:00-11:00 `@sleep`  : 睡觉               `planned-WrongTime`
+5. 23:27-02:00 `@chat.gran`:  聊天  `extra`
+6. 02:00-03:00 `@leisure`: 刷视频     `extra`
+7. 03:00-11:00 `@sleep`  : 睡觉       `planned-WrongTime`
 
 ---
 `Plan`
-1. 11:00-11:00 `@wakeup` : 起床           `pending`
-2. 11:00-12:30 `@meal.lunch`   : 午餐   `done`
-3. 12:30-13:00 `@coding.sql` : 写一道 SQL    `pending`
-4. 13:00-15:00 `@coding.pandas` : Pandas 练习    `pending`
-5. 15:00-18:00 `@research.model.qmdj` : 改进模型    `pending`
-6. 18:00-20:30 `@exercise.run&shower.dinner`: 运动＋洗澡＋晚餐    `pending`
-7. 20:30-23:00 `@leisure` : 自由安排    `done`
-8. 23:00-23:30 `@commute&routine` : 回寝室＋洗漱    `done`
-9. 23:30-23:59 `@routine` : 准备睡觉    `pending`
+1. 11:00-11:00 `@wakeup` : 起床                                 `pending`
+2. 11:00-12:30 `@meal.lunch`   : 午餐                           `done`
+3. 12:30-13:00 `@coding.sql` : 写一道 SQL                       `pending`
+4. 13:00-15:00 `@coding.pandas` : Pandas 练习                   `pending`
+5. 15:00-18:00 `@research.model.qmdj` : 改进模型                 `pending`
+6. 18:00-20:30 `@exercise.run&shower.dinner`: 运动＋洗澡＋晚餐   `pending`
+7. 20:30-23:00 `@leisure` : 自由安排                            `done`
+8. 23:00-23:30 `@commute&routine` : 回寝室＋洗漱                `done`
+9. 23:30-23:59 `@routine` : 准备睡觉                            `pending`
 
 ---
 `Actual`
-1. 11:00-12:30 `@meal.lunch`   : 午餐       `planned-OnTime`
-2. 12:30-15:54 `@coding.leetcode.python` : LeetCode Python   `extra`
+1. 11:00-12:30 `@meal.lunch`   : 午餐                                      `planned-OnTime`
+2. 12:30-15:54 `@coding.leetcode.python` : LeetCode Python                 `extra`
 3. 15:54-16:37 `@gaming` : 打游戏   `extra`
 4. 16:37-18:49 `@coding.python.module-package` : Python module & package   `extra`
-5. 18:49-19:48 `@study.python.question`  : Python 问答   `extra`
-6. 19:48-20:30 `@study.java`: java学习   `extra`
-7. 20:30-20:49 `@coding.python.unknown` : Python LXF   `extra`
-8. 20:49-21:30 `@meal.dinner`   : 晚餐   `planned-WrongTime`
-9. 21:30-23:59 `@gaming&shower&housework` : 打游戏＋洗澡＋收拾  `extra`
+5. 18:49-19:48 `@study.python.question`  : Python 问答                     `extra`
+6. 19:48-20:30 `@study.java`: java学习                                     `extra`
+7. 20:30-20:49 `@coding.python.unknown` : Python LXF                       `extra`
+8. 20:49-21:30 `@meal.dinner`   : 晚餐                                     `planned-WrongTime`
+9. 21:30-23:59 `@gaming&shower&housework` : 打游戏＋洗澡＋收拾              `extra`
 ```
 ---
 
