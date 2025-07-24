@@ -6,7 +6,7 @@
 ---
 ## 一、简介
 
-本项目提供一套“清单式 Markdown 日记”自动解析并批量写入 MySQL 的解决方案。你只需按照指定格式写好日记，运行脚本即可将每天的「Yesterday／Plan／Actual」三段记录结构化到数据库，无需手动整理。
+这个脚本提供一套“清单式 Markdown 日记”自动解析并批量写入 MySQL 的解决方案。你只需按照指定格式写好日记，运行脚本即可将每天的「Yesterday／Plan／Actual」三段记录结构化到数据库，无需手动整理。
 
 这能帮你做什么  
 - **自动化**：把“Plan”、“Actual/Yesterday” 三段式 Markdown 日记一键解析、清洗、写入 MySQL  
